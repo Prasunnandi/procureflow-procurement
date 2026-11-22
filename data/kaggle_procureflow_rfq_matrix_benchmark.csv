@@ -1,0 +1,5 @@
+rfq_id,title,category,requested_by_dept,required_units,target_delivery_date,vendor_a_name,vendor_a_bid_usd,vendor_a_lead_days,vendor_b_name,vendor_b_bid_usd,vendor_b_lead_days,selected_vendor,approval_chain_status,final_po_number
+RFQ-301,Q4 Cloud Data Center Server Racks,IT Infrastructure,Cloud Architecture,25,2026-12-15,Vanguard Server Racks Corp,48500.00,10,Apex Industrial Hardware,52000.00,5,Vanguard Server Racks,FINANCE_DIRECTOR_APPROVED,PO-2026-8801
+RFQ-302,High-Density HDPE Granules Bulk Restock,Chemicals & Polymers,Manufacturing,100,2026-12-28,Global Polymers Ltd,108000.00,14,ChemSource International,114000.00,7,Global Polymers Ltd,DEPT_HEAD_REVIEW,PO-PENDING
+RFQ-303,Precision Industrial Optical Sensors Batch C,Automation Robotics,Engineering,1500,2026-12-05,Precision Micro-Sensors,37500.00,4,OmniSensor IC Global,42000.00,3,Precision Micro-Sensors,FINANCE_DIRECTOR_APPROVED,PO-2026-8802
+RFQ-304,Sustainable Corrugated Shipping Cartons,Packaging Operations,Fulfillment Logistics,5000,2027-01-10,Midwest Packaging Co,14200.00,8,EcoBox Containers Ltd,15500.00,4,Midwest Packaging Co,REQUISITION_SUBMITTED,PO-PENDING
